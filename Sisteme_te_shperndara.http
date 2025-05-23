@@ -1,0 +1,6 @@
+@Sisteme_te_shperndara_HostAddress = http://localhost:5144
+
+GET {{Sisteme_te_shperndara_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

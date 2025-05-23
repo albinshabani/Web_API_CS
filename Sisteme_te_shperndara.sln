@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sisteme_te_shperndara", "Sisteme_te_shperndara.csproj", "{8E990536-D513-4713-A22B-FEC78C4645CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E990536-D513-4713-A22B-FEC78C4645CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E990536-D513-4713-A22B-FEC78C4645CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E990536-D513-4713-A22B-FEC78C4645CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E990536-D513-4713-A22B-FEC78C4645CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B531801F-9D2E-4058-A2F1-DD73622B2E92}
+	EndGlobalSection
+EndGlobal
